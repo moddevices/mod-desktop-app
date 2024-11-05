@@ -1,4 +1,4 @@
-id: audio.mod.mod-desktop
+id: audio.mod.mod_desktop
 runtime: org.kde.Platform
 runtime-version: "5.15-23.08"
 sdk: org.kde.Sdk
